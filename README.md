@@ -21,4 +21,4 @@ A visually appealing and responsive clone of the Myntra website built using **HT
 Myntra-Clone/
 ├── index.html          # Main HTML file
 ├── style.css           # CSS file for styling
-└── assets/             # Folder for images and other resources
+└── images/             # Folder for images and other resources
